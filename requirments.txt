@@ -1,0 +1,4 @@
+pip install langchain
+pip install FAISS-cpu
+pip install gpt4all
+pip install pypdf
